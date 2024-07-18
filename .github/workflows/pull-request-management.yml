@@ -142,7 +142,7 @@ jobs:
         with:
           python-version: ${{ matrix.python_version }}
       - name: Install requirements
-        # forcing a specific version of ansible-lint to install requirement-dev in Python 3.9.
+        # Removing ansible-lint in requirement-dev-3.9 to allow requirements installation for Python 3.9.
         run: |
           pip install -r ansible_collections/arista/cvp/requirements-dev-3.9.txt
           pip install -r ansible_collections/arista/cvp/requirements.txt
