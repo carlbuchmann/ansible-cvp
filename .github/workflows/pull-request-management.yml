@@ -130,7 +130,7 @@ jobs:
     strategy:
       fail-fast: true
       matrix:
-        python_version: ['3.10','3.11','3.12']
+        python_version: ['3.9','3.10','3.11','3.12']
     steps:
       - name: 'set environment variables'
         run: |
@@ -142,8 +142,9 @@ jobs:
         with:
           python-version: ${{ matrix.python_version }}
       - name: Install requirements
+        # forcing a specific version of ansible-lint to install requirement-dev in Python 3.9.
         run: |
-          pip install -r ansible_collections/arista/cvp/requirements-dev.txt
+          pip install -r ansible_collections/arista/cvp/requirements-dev-3.9.txt
           pip install -r ansible_collections/arista/cvp/requirements.txt
       - name: 'Execute pytest validation'
         run: |

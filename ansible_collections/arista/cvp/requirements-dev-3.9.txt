@@ -1,6 +1,6 @@
+# Temp requirements  for python 3.9 (removed ansible-lint)
 ansible-core>=2.15.0,<2.18.0
 ansible-builder
-ansible-lint>=24.7.0
 galaxy-importer>=0.3.1
 pycodestyle
 flake8
