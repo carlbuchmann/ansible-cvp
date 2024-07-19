@@ -144,7 +144,7 @@ jobs:
       - name: Install requirements
         # Removing ansible-lint in requirement-dev-3.9 to allow requirements installation for Python 3.9.
         run: |
-          pip install -r ansible_collections/arista/cvp/requirements-dev-3.9.txt
+          pip install -r ansible_collections/arista/cvp/requirements-dev-pytest.txt
           pip install -r ansible_collections/arista/cvp/requirements.txt
       - name: 'Execute pytest validation'
         run: |
