@@ -6,7 +6,7 @@
 
 - name: Deprecation warning!
   delegate_to: localhost
-  debug:
+  ansible.builtin.debug:
     msg:
       - "!!! Deprecation Warning - Please note this role has been deprecated."
       - "!!! Deprecation Warning - This role will be removed in version 4.0.0."
