@@ -1,4 +1,3 @@
-version: "3"
 services:
   ansible:
     image: avdteam/base:3.8-v2.0
