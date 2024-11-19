@@ -4,6 +4,18 @@ Arista.Cvp Release Notes
 
 .. contents:: Topics
 
+v3.12.0
+=======
+
+Release Summary
+---------------
+
+Release 3.12.0 - See documentation on cvp.avd.sh for details.
+
+Minor Changes
+-------------
+
+- Add support for Ansible 2.18.x
 
 v3.11.0
 =======
@@ -12,7 +24,6 @@ Release Summary
 ---------------
 
 Release 3.11.0 - See documentation on cvp.avd.sh for details.
-
 
 Bugfixes
 --------
@@ -30,7 +41,6 @@ Release Summary
 
 Release 3.10.1 - See documentation on cvp.avd.sh for details.
 
-
 Bugfixes
 --------
 
@@ -44,7 +54,6 @@ Release Summary
 
 Release 3.10.0 - See documentation on cvp.avd.sh for details.
 
-
 Minor Changes
 -------------
 
@@ -57,7 +66,6 @@ Release Summary
 ---------------
 
 Release 3.9.0 - See documentation on cvp.avd.sh for details.
-
 
 Minor Changes
 -------------
@@ -78,7 +86,6 @@ Release Summary
 
 Release 3.8.0 - See documentation on cvp.avd.sh for details.
 
-
 Minor Changes
 -------------
 
@@ -98,7 +105,6 @@ Release Summary
 ---------------
 
 Release 3.7.0 - See documentation on cvp.avd.sh for details.
-
 
 Minor Changes
 -------------
@@ -123,7 +129,6 @@ Release Summary
 
 Release 3.6.1 - See documentation on cvp.avd.sh for details.
 
-
 Bugfixes
 --------
 
@@ -140,7 +145,6 @@ Release Summary
 ---------------
 
 Release 3.6.0 - See documentation on cvp.avd.sh for details.
-
 
 Minor Changes
 -------------
@@ -160,7 +164,6 @@ Release Summary
 
 Release 3.5.1 - See documentation on cvp.avd.sh for details.
 
-
 Bugfixes
 --------
 
@@ -173,7 +176,6 @@ Release Summary
 ---------------
 
 Release 3.5.0 - See documentation on cvp.avd.sh for details.
-
 
 Minor Changes
 -------------
@@ -198,7 +200,6 @@ Release Summary
 ---------------
 
 Release 3.4.0 - See documentation on cvp.avd.sh for details.
-
 
 Minor Changes
 -------------
