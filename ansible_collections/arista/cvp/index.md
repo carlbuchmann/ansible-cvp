@@ -37,7 +37,7 @@ Current active branch:
 
 ### Python
 
-- Python `>=3.9`
+- Python `>=3.10`
 
 Please check the minimum version supported by your ansible installation on the [ansible website](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#control-node-requirements).
 
