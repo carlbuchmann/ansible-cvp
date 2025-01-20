@@ -252,6 +252,10 @@ jobs:
             --exclude "www.docker.com" \
             --exclude "hub.docker.com" \
             --exclude "tech-library.arista.com" \
+            --exclude "cvp.avd.sh" \
+            --exclude "treelib.readthedocs.io" \
+            --exclude "www.paramiko.org" \
+            --exclude "requests.readthedocs.io" \
             --max-connections-per-host 30 \
             --max-redirections 3 \
             --rate-limit 1 \
