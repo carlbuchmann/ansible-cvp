@@ -1,5 +1,5 @@
 <!--
-  ~ Copyright (c) 2023-2024 Arista Networks, Inc.
+  ~ Copyright (c) 2023-2025 Arista Networks, Inc.
   ~ Use of this source code is governed by the Apache License 2.0
   ~ that can be found in the LICENSE file.
   -->
@@ -201,4 +201,4 @@ Contributing pull requests are gladly welcomed for this repository. If you are p
 
 You can also open an [issue](https://github.com/aristanetworks/ansible-cvp/issues) to report any problem or to submit enhancement.
 
-A more complete [guide for contribution](https://avd.sh/en/latest/docs/contribution/overview.html) is available in the repository
+A more complete [guide for contribution](https://avd.arista.com/devel/docs/contribution/overview.html) is available in the repository

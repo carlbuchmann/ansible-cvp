@@ -1,12 +1,12 @@
 <!--
-  ~ Copyright (c) 2023-2024 Arista Networks, Inc.
+  ~ Copyright (c) 2023-2025 Arista Networks, Inc.
   ~ Use of this source code is governed by the Apache License 2.0
   ~ that can be found in the LICENSE file.
   -->
 
 # Collection installation
 
-These instructions are for regular users to install via Ansible Galaxy. To setup a development environment use [these](https://www.avd.sh/en/devel/docs/contribution/overview.html) instructions.
+These instructions are for regular users to install via Ansible Galaxy. To setup a development environment use [these](https://avd.arista.com/devel/docs/contribution/overview.html) instructions.
 
 **arista.cvp** can also be consumed using the ["AVD All-in-one" container](https://github.com/arista-netdevops-community/avd-all-in-one-container).
 

@@ -165,5 +165,5 @@ nav:
     - Versions 3.x: docs/release-notes/v3.x.md
   - About:
     - Ansible Galaxy page: https://galaxy.ansible.com/arista/cvp
-    - Arista Validated Design Collection: https://www.avd.sh
+    - Arista AVD Ansible Collection: https://avd.arista.com
     - Arista Automation Examples: https://aristanetworks.github.io/netdevops-examples/
